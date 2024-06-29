@@ -1,7 +1,21 @@
 # product_manager
 
-A new Flutter project.
+## Description
 
+Our goal is to provide users with an easier way to manage products, sort by price and name, and track inventory. By automating and optimizing internal company orders for spare parts and materials, inventory tracking, and price comparisons, we aim to save both time and money.
+
+## Features
+
+- Product management
+- Price and name sorting
+- Inventory tracking
+- Internal company spare parts and material orders
+- Price comparison
+
+## Built With
+
+- [Flutter](https://flutter.dev/)
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
